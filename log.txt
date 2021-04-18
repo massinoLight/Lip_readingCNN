@@ -1,0 +1,1 @@
+/home/massino/Bureau/M1BigData/s2/FouilleDonnées/projet/LipReadingCNN/dataset/dataset/F01/words/01/08/color_002.jpg : Good 
